@@ -33,6 +33,7 @@ Combinamos rapidez y calidad: prototipos ágiles que evolucionan hacia solucione
 
 Ofrecemos servicios y trabajos de ejemplo orientados a pequeños y medianos proyectos:
 
+* Proceso de **análisis** y **diseño** (de datos, DER; prototipos interactivos, Figma).
 * Desarrollo de **aplicaciones web** (APIs y front-end).
 * Desarrollo de **aplicaciones móviles** (React Native / Expo — prototipos rápidos y despliegues).
 * APIs y arquitectura backend (Flask, FastAPI, etc.).

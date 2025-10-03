@@ -66,7 +66,7 @@ Algunas tecnologías y herramientas que solemos usar:
 
 **CUIDADORES**
 
-Plataforma para gestionar cuidadores y pacientes — frontend en React Native (Expo) y API REST para reservas, historial y administración.
+Plataforma para gestionar cuidadores y clientes — frontend en React Native (Expo) y API REST para reservas, historial y administración.
 * Tech stack: `React Native (Expo) + Nest.js + TypeORM + PostgreSQL`
 * Estado: `WIP`
 * Diseño de datos: [Lucidchart](https://lucid.app/lucidchart/83f34f7b-5c74-41e3-a9f0-4d0ae9c12d18/edit?viewport_loc=-1780%2C-1532%2C5170%2C2260%2CWEhmObdHGsg9&invitationId=inv_00eeeb38-4137-471d-9424-c803b9197267)

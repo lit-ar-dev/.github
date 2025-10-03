@@ -68,7 +68,15 @@ Algunas tecnologías y herramientas que solemos usar:
 
 * Tech stack: `React Native (Expo) + Nest.js + TypeORM + PostgreSQL`
 * Estado: `WIP`
+* Diseño de datos: [Lucidchart](https://lucid.app/lucidchart/83f34f7b-5c74-41e3-a9f0-4d0ae9c12d18/edit?viewport_loc=-1780%2C-1532%2C5170%2C2260%2CWEhmObdHGsg9&invitationId=inv_00eeeb38-4137-471d-9424-c803b9197267)
 * Link al repo o carpeta: [Backend](https://github.com/lit-ar-dev/PlataformaCuidadoresBackend) - [Frontend](https://github.com/lit-ar-dev/PlataformaCuidadoresFrontend)
+
+**VentiUp — Aplicación de escritorio diseñada para gestionar productos (a granel o por unidad), control de stock por lotes, clientes y ventas — ideal para supermercados o veterinarias. Diseñada como una arquitectura cliente-servidor de dos capas (frontend ↔ backend)**
+* Tech stack: `Python + PySide6 + FastAPI + Pydantic + SQLAlchemy + MariaDB`
+* Estado: `WIP`
+* Gestión del proyecto: [Trello](https://trello.com/b/l6Ywl9AI/proyecto-dietetica-venta)
+* Diseño de datos: [Lucidchart](https://lucid.app/lucidchart/83f34f7b-5c74-41e3-a9f0-4d0ae9c12d18/edit?viewport_loc=-3058%2C-1315%2C4929%2C2154%2C0_0&invitationId=inv_00eeeb38-4137-471d-9424-c803b9197267)
+* Link al repo o carpeta: [Backend](https://github.com/lit-ar-dev/ProgramaVentiUpBackend) - [Frontend](https://github.com/lit-ar-dev/ProgramaVentiUpFrontend)
 
 ---
 
